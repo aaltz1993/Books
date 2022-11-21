@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <!-- search -->
+    <string name="books">Books</string>
+    <string name="search">검색</string>
+    <string name="search_hint">제목, 저자, 출판사 검색</string>
+    <string name="search_results_total_count">%d권</string>
+    <string name="recent_searches">최근 검색 기록</string>
+    <string name="clear_all">모두 지우기</string>
+
+    <!-- search results -->
+    <string name="search_result">검색 결과</string>
+    <string name="authors_format">%s 지음</string>
+    <string name="published_date_format">%s 출간</string>
+
+    <!-- no search result -->
+    <string name="no_search_result_message">검색 결과가 없습니다</string>
+    <string name="query_check_message">검색어를 다시 확인해 주세요</string>
+
+    <!-- error -->
+    <string name="network_error_message">인터넷 연결이 불안정합니다\n네트워크 상태를 확인해 주세요</string>
+    <string name="network_connection_failed_message">데이터를 불러오는데 실패하였습니다\n네트워크 상태를 확인해 주세요</string>
+    <string name="unexpected_error_message">예기치 못한 오류가 발생하였습니다\n다시 시도해 주세요</string>
+</resources>

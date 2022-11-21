@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/drawable_loading_icon">
+
+    <target
+        android:animation="@animator/logo_first_circle_animator"
+        android:name="first_circle" />
+
+    <target
+        android:animation="@animator/logo_second_circle_animator"
+        android:name="second_circle" />
+
+    <target
+        android:animation="@animator/logo_third_circle_animator"
+        android:name="third_circle"/>
+</animated-vector>

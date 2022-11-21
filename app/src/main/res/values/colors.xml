@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="logo_color_100">#fdf289</color>
+    <color name="logo_color_200">#6ADCA9</color>
+    <color name="logo_color_300">#E6528CF6</color>
+
+    <color name="primary_text_color">#000000</color>
+    <color name="secondary_text_color">#B0B8C0</color>
+
+    <color name="primary_background_color">#FFFFFFFF</color>
+
+    <color name="error_message_background_color">#CF4C59</color>
+
+    <!-- search -->
+    <color name="search_icons_tint_color">#B0B8C0</color>
+    <color name="search_bar_background_color">#F2F3F5</color>
+    <color name="search_edit_text_hint_text_color">#B0B8C0</color>
+    <color name="divider_background_color">#F2F3F5</color>
+
+    <!-- book -->
+    <color name="book_cover_placeholder_background_color">#F2F3F5</color>
+</resources>
